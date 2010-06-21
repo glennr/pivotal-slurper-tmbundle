@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Pivotal Slurper</string>
+	<key>ordering</key>
+	<array>
+		<string>A9319B33-635A-4F05-B786-AE0399AEF63C</string>
+		<string>1AFE0AC4-D171-470A-8B4B-E2C8D348D113</string>
+		<string>247A46AC-396F-4901-B453-7B9F7B3A1E21</string>
+		<string>745B319F-7D14-495F-B33C-B2394893693C</string>
+		<string>EA192B76-DCBF-48DC-A1E3-CBABCD54707C</string>
+	</array>
+	<key>uuid</key>
+	<string>A031B6E0-723C-4688-AFC6-14E37851C8E0</string>
+</dict>
+</plist>

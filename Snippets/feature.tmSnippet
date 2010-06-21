@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>==
+story_type:
+  feature
+name:
+  A ${1:user role} can ${2:do something}, in order to ${3: Increase Revenue | Reduce Costs | Protect Revenue}
+labels:
+  ${4:labels}
+description:
+  
+  Acceptance
+    * ${6:criteria}
+    * ${7:criteria}
+
+  $0</string>
+	<key>name</key>
+	<string>feature</string>
+	<key>scope</key>
+	<string>text.tracker</string>
+	<key>tabTrigger</key>
+	<string>fea</string>
+	<key>uuid</key>
+	<string>A9319B33-635A-4F05-B786-AE0399AEF63C</string>
+</dict>
+</plist>

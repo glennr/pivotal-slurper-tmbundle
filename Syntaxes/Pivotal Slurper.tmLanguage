@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>slurper</string>
+		<string>txt</string>
+		<string>feature</string>
+		<string>bug</string>
+	</array>
+	<key>keyEquivalent</key>
+	<string>^~P</string>
+	<key>name</key>
+	<string>Pivotal Slurper</string>
+	<key>scopeName</key>
+	<string>text.tracker</string>
+	<key>uuid</key>
+	<string>EA192B76-DCBF-48DC-A1E3-CBABCD54707C</string>
+</dict>
+</plist>
